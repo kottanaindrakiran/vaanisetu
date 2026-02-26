@@ -1,0 +1,34 @@
+
+--- QUERY: Student from Tamil Nadu ---
+  1. [High] Moovalur Ramamirtham Ammaiyar Higher Education Assurance Scheme (Targets: ['student', 'women'])
+  2. [High] National Scholarship Portal (Pre-Matric) (Targets: ['student'])
+  3. [Medium] Post-Matric Scholarship Scheme (Targets: ['student'])
+  4. [Medium] Skill India Programs (PMKVY) (Targets: ['worker', 'student'])
+  5. [Low] Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY) (Targets: ['student', 'worker', 'general'])
+
+  BENEFITS SUMMARY: Good news! We found 5 schemes you might be eligible for. These schemes may provide scholarships, education fee support, and employment/skill opportunities.
+
+--- QUERY: Farmer from Andhra Pradesh ---
+  1. [High] YSR Rythu Bharosa (Targets: ['farmer'])
+  2. [High] PM Kisan Samman Nidhi (Targets: ['farmer'])
+  3. [Medium] Kisan Credit Card (KCC) (Targets: ['farmer'])
+  4. [Medium] Pradhan Mantri Fasal Bima Yojana (PMFBY) (Targets: ['farmer'])
+  5. [Low] Ayushman Bharat PM-JAY (Targets: ['general', 'worker', 'farmer', 'women', 'senior'])
+
+  BENEFITS SUMMARY: Good news! We found 5 schemes you might be eligible for. These schemes may provide direct agricultural income support, access to farm credit, and protection against crop losses.
+
+--- QUERY: Senior citizen from Rajasthan ---
+  1. [High] Mukhyamantri Vridhjan Samman Pension Yojana (Targets: ['senior'])
+  2. [High] National Social Assistance Programme (Indira Gandhi National Old Age Pension) (Targets: ['senior'])
+  3. [Medium] Atal Pension Yojana (APY) (Targets: ['worker', 'senior'])
+  4. [Medium] Swavalamban Yojana (Targets: ['worker', 'senior'])
+  5. [Low] Pradhan Mantri Suraksha Bima Yojana (PMSBY) (Targets: ['general'])
+
+  BENEFITS SUMMARY: Good news! We found 5 schemes you might be eligible for. These schemes may provide additional financial support.
+
+--- QUERY: Tailor from Kerala ---
+  1. [High] Pradhan Mantri Suraksha Bima Yojana (PMSBY) (Targets: ['general'])
+  2. [High] Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) (Targets: ['general'])
+  3. [Medium] Indira Gandhi National Disability Pension (Targets: ['general'])
+
+  BENEFITS SUMMARY: Good news! We found 3 schemes you might be eligible for. These schemes may provide additional financial support and financial protection.

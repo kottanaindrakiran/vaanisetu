@@ -1,0 +1,79 @@
+[
+  {
+    "query": "I am a student looking for a scholarship",
+    "state": null,
+    "schemes": [
+      {
+        "name": "National Scholarship Portal (Pre-Matric)",
+        "score": 125,
+        "eligibilityScore": "high",
+        "confidence": "High",
+        "simple_reason": "This scholarship helps students pay school or college fees."
+      },
+      {
+        "name": "Post-Matric Scholarship Scheme",
+        "score": 125,
+        "eligibilityScore": "high",
+        "confidence": "High",
+        "simple_reason": "This scholarship helps students pay school or college fees."
+      },
+      {
+        "name": "Skill India Programs (PMKVY)",
+        "score": 135,
+        "eligibilityScore": "medium",
+        "confidence": "Medium",
+        "simple_reason": "This program offers skill training for employment."
+      },
+      {
+        "name": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY)",
+        "score": 135,
+        "eligibilityScore": "medium",
+        "confidence": "Medium",
+        "simple_reason": "Also Available Scheme: Available to all eligible citizens."
+      }
+    ],
+    "summary": "Good news! We found 4 schemes you might be eligible for. These schemes may provide scholarships, education fee support, and employment/skill opportunities."
+  },
+  {
+    "query": "I am a farmer looking for help",
+    "state": null,
+    "schemes": [
+      {
+        "name": "PM Kisan Samman Nidhi",
+        "score": 155,
+        "eligibilityScore": "high",
+        "confidence": "High",
+        "simple_reason": "This scheme provides direct support to farmers for agriculture."
+      },
+      {
+        "name": "Kisan Credit Card (KCC)",
+        "score": 155,
+        "eligibilityScore": "high",
+        "confidence": "High",
+        "simple_reason": "This scheme provides direct support to farmers for agriculture."
+      },
+      {
+        "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+        "score": 130,
+        "eligibilityScore": "medium",
+        "confidence": "Medium",
+        "simple_reason": "Also Available Scheme: Available to all eligible citizens."
+      },
+      {
+        "name": "Ayushman Bharat PM-JAY",
+        "score": 100,
+        "eligibilityScore": "medium",
+        "confidence": "Medium",
+        "simple_reason": "Also Available Scheme: Available to all eligible citizens."
+      },
+      {
+        "name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+        "score": 90,
+        "eligibilityScore": "low",
+        "confidence": "Low",
+        "simple_reason": "Also Available Scheme: Available to all eligible citizens."
+      }
+    ],
+    "summary": "Good news! We found 5 schemes you might be eligible for. These schemes may provide direct farmer income support, agricultural credit, crop insurance, and medical protection."
+  }
+]

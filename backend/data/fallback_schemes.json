@@ -1,0 +1,1016 @@
+[
+    {
+        "id": "70850db8-16d1-4300-bd76-de674aa63759",
+        "name": "PM Kisan Samman Nidhi",
+        "official_url": "https://pmkisan.gov.in/",
+        "category": "Agriculture",
+        "eligible_occupations": [
+            "farmer",
+            "agriculture worker"
+        ],
+        "income_limit": null,
+        "min_age": 18,
+        "max_age": null,
+        "states": [
+            "all"
+        ],
+        "documents": [
+            "Aadhar Card",
+            "Bank Passbook",
+            "Land holding papers"
+        ],
+        "benefit_summary": "Financial benefit of Rs 6000 per year in three equal installments of Rs 2000.",
+        "apply_steps": [
+            "Visit PM Kisan Portal",
+            "Click on New Farmer Registration",
+            "Fill details and submit"
+        ],
+        "target_groups": [
+            "farmer"
+        ],
+        "scheme_type": "farmer_support"
+    },
+    {
+        "id": "cbc25887-ae90-4118-9e02-05fc20ce0fed",
+        "name": "Ayushman Bharat PM-JAY",
+        "official_url": "https://pmjay.gov.in/",
+        "category": "Health",
+        "eligible_occupations": [
+            "all",
+            "worker",
+            "farmer",
+            "widow"
+        ],
+        "income_limit": 50000,
+        "min_age": null,
+        "max_age": null,
+        "states": [
+            "all"
+        ],
+        "documents": [
+            "Aadhar Card",
+            "Ration Card",
+            "PMJAY Letter"
+        ],
+        "benefit_summary": "Health insurance cover of up to Rs. 5 lakhs per family per year for secondary and tertiary care hospitalization.",
+        "apply_steps": [
+            "Check eligibility on PMJAY portal",
+            "Visit nearest empanelled hospital or CSC",
+            "Verify Identity with Aadhar"
+        ],
+        "target_groups": [
+            "general",
+            "worker",
+            "farmer",
+            "women",
+            "senior"
+        ],
+        "scheme_type": "health"
+    },
+    {
+        "id": "9e62da87-a151-4bb7-98f9-e4fbba0d71b8",
+        "name": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+        "official_url": "https://nrega.nic.in/",
+        "category": "Employment",
+        "eligible_occupations": [
+            "worker",
+            "labour"
+        ],
+        "income_limit": null,
+        "min_age": 18,
+        "max_age": null,
+        "states": [
+            "all"
+        ],
+        "documents": [
+            "Aadhar Card",
+            "Bank Account",
+            "Passport Size Photo"
+        ],
+        "benefit_summary": "Guarantees 100 days of wage employment in a financial year to rural households.",
+        "apply_steps": [
+            "Approach Gram Panchayat",
+            "Apply for Job Card",
+            "Submit work application"
+        ],
+        "target_groups": [
+            "worker",
+            "general"
+        ],
+        "scheme_type": "financial_support"
+    },
+    {
+        "id": "4c5a9fef-93dc-4b32-b6db-f99c19dee42f",
+        "name": "Pradhan Mantri Awas Yojana (PMAY-G)",
+        "official_url": "https://pmayg.nic.in/",
+        "category": "Housing",
+        "eligible_occupations": [
+            "all"
+        ],
+        "income_limit": 100000,
+        "min_age": 18,
+        "max_age": null,
+        "states": [
+            "all"
+        ],
+        "documents": [
+            "Aadhar Card",
+            "Job Card",
+            "Bank Account",
+            "SBM Number"
+        ],
+        "benefit_summary": "Financial assistance to rural poor for constructing a pucca house.",
+        "apply_steps": [
+            "Identify eligibility via Gram Sabha",
+            "Beneficiary verified and registered",
+            "Installment credited in bank"
+        ],
+        "target_groups": [
+            "general",
+            "worker"
+        ],
+        "scheme_type": "housing"
+    },
+    {
+        "id": "466fbf94-d0ff-42c8-9328-e50ee1c5c4ce",
+        "name": "Indira Gandhi National Widow Pension Scheme",
+        "official_url": "https://nsap.nic.in/",
+        "category": "Pension",
+        "eligible_occupations": [
+            "widow"
+        ],
+        "income_limit": null,
+        "min_age": 40,
+        "max_age": 79,
+        "states": [
+            "all"
+        ],
+        "documents": [
+            "Aadhar Card",
+            "Husband's Death Certificate",
+            "BPL Ration Card"
+        ],
+        "benefit_summary": "Pension of Rs. 300 to Rs. 500 per month.",
+        "apply_steps": [
+            "Visit Gram Panchayat/Block office",
+            "Fill application form",
+            "Submit required certificates"
+        ],
+        "target_groups": [
+            "women"
+        ],
+        "scheme_type": "pension"
+    },
+    {
+        "id": "d29dee1b-1cfe-4ec0-91c2-2a5dc8c6781b",
+        "name": "Uzhavar Sandhai Scheme",
+        "official_url": "https://tnagrisnet.tn.gov.in/",
+        "category": "Agriculture",
+        "eligible_occupations": [
+            "farmer"
+        ],
+        "income_limit": null,
+        "min_age": 18,
+        "max_age": null,
+        "states": [
+            "tamil nadu"
+        ],
+        "documents": [
+            "Farmer Identity Card",
+            "Aadhar Card"
+        ],
+        "benefit_summary": "Direct sale of agricultural produce by farmers to consumers without middlemen.",
+        "apply_steps": [
+            "Register with local agriculture office to get ID card",
+            "Visit market yard"
+        ],
+        "target_groups": [
+            "farmer"
+        ],
+        "scheme_type": "farmer_support"
+    },
+    {
+        "id": "51acf6c2-f340-4f38-be66-8d2cd5e695b1",
+        "name": "PM SVANidhi",
+        "official_url": "https://pmsvanidhi.mohua.gov.in/",
+        "category": "Business",
+        "eligible_occupations": [
+            "business",
+            "vendor",
+            "street vendor"
+        ],
+        "income_limit": null,
+        "min_age": 18,
+        "max_age": null,
+        "states": [
+            "all"
+        ],
+        "documents": [
+            "Aadhar Card",
+            "Vending Certificate",
+            "Bank Account"
+        ],
+        "benefit_summary": "Micro-credit facility up to Rs. 50,000 for street vendors.",
+        "apply_steps": [
+            "Visit PMSVANidhi portal",
+            "Apply for loan",
+            "Submit to bank"
+        ],
+        "target_groups": [
+            "business",
+            "worker"
+        ],
+        "scheme_type": "financial_support"
+    },
+    {
+        "id": "98ce9f7a-2f6d-4127-93b2-e42f10102629",
+        "name": "Sukanya Samriddhi Yojana",
+        "official_url": "https://www.indiapost.gov.in/",
+        "category": "Savings",
+        "eligible_occupations": [
+            "all",
+            "student"
+        ],
+        "income_limit": null,
+        "min_age": 0,
+        "max_age": 10,
+        "states": [
+            "all"
+        ],
+        "documents": [
+            "Birth Certificate of Girl",
+            "Aadhar Card of Parent",
+            "Address Proof"
+        ],
+        "benefit_summary": "High interest savings account for girl child education and marriage.",
+        "apply_steps": [
+            "Visit Post Office or Bank",
+            "Open SSY Account",
+            "Deposit minimum amount"
+        ],
+        "target_groups": [
+            "student",
+            "women"
+        ],
+        "scheme_type": "women_specific"
+    },
+    {
+        "id": "8d8ce9ce-8702-4eb7-9e73-775eb44c0179",
+        "name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+        "official_url": "https://jansuraksha.gov.in/",
+        "category": "Insurance",
+        "eligible_occupations": [
+            "all"
+        ],
+        "income_limit": null,
+        "min_age": 18,
+        "max_age": 70,
+        "states": [
+            "all"
+        ],
+        "documents": [
+            "Aadhar Card",
+            "Bank Account details"
+        ],
+        "benefit_summary": "Accidental death and disability insurance cover of Rs. 2 Lakhs for just Rs. 20 per year.",
+        "apply_steps": [
+            "Visit your Bank branch",
+            "Fill auto-debit consent form"
+        ],
+        "target_groups": [
+            "general"
+        ],
+        "scheme_type": "insurance"
+    },
+    {
+        "id": "75f16806-0820-451d-80ba-8f1f16f50e98",
+        "name": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+        "official_url": "https://jansuraksha.gov.in/",
+        "category": "Insurance",
+        "eligible_occupations": [
+            "all"
+        ],
+        "income_limit": null,
+        "min_age": 18,
+        "max_age": 50,
+        "states": [
+            "all"
+        ],
+        "documents": [
+            "Aadhar Card",
+            "Bank Account details"
+        ],
+        "benefit_summary": "Life insurance cover of Rs. 2 Lakhs for Rs. 436 per year.",
+        "apply_steps": [
+            "Visit your Bank branch",
+            "Fill auto-debit consent form"
+        ],
+        "target_groups": [
+            "general"
+        ],
+        "scheme_type": "insurance"
+    },
+    {
+        "id": "49d9f7dc-1dda-4bab-bdcc-e5296fdb0693",
+        "name": "Atal Pension Yojana (APY)",
+        "official_url": "https://npscra.nsdl.co.in/scheme-details.php",
+        "category": "Pension",
+        "eligible_occupations": [
+            "worker",
+            "labour",
+            "unorganised sector"
+        ],
+        "income_limit": null,
+        "min_age": 18,
+        "max_age": 40,
+        "states": [
+            "all"
+        ],
+        "documents": [
+            "Aadhar Card",
+            "Savings Bank Account"
+        ],
+        "benefit_summary": "Guaranteed minimum monthly pension of Rs. 1000 to Rs. 5000 after age 60.",
+        "apply_steps": [
+            "Visit bank branch",
+            "Fill APY registration form",
+            "Maintain balance for auto-debit"
+        ],
+        "target_groups": [
+            "worker",
+            "senior"
+        ],
+        "scheme_type": "pension"
+    },
+    {
+        "id": "05fa2dd6-61b3-4829-b81c-8310002debc6",
+        "name": "Pradhan Mantri Mudra Yojana (PMMY)",
+        "official_url": "https://www.mudra.org.in/",
+        "category": "Business",
+        "eligible_occupations": [
+            "business",
+            "vendor",
+            "farmer"
+        ],
+        "income_limit": null,
+        "min_age": 18,
+        "max_age": null,
+        "states": [
+            "all"
+        ],
+        "documents": [
+            "Aadhar Card",
+            "Business Proof",
+            "Project Report"
+        ],
+        "benefit_summary": "Loans up to Rs. 10 Lakhs for non-corporate, non-farm small/micro enterprises.",
+        "apply_steps": [
+            "Approach bank or NBFC",
+            "Submit application under Shishu/Kishore/Tarun category"
+        ],
+        "target_groups": [
+            "business",
+            "worker"
+        ],
+        "scheme_type": "financial_support"
+    },
+    {
+        "id": "8910f381-266e-4eb5-b1e7-dd58beceacba",
+        "name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+        "official_url": "https://www.pmuy.gov.in/",
+        "category": "Welfare",
+        "eligible_occupations": [
+            "widow",
+            "worker",
+            "farmer"
+        ],
+        "income_limit": 100000,
+        "min_age": 18,
+        "max_age": null,
+        "states": [
+            "all"
+        ],
+        "documents": [
+            "BPL Ration Card",
+            "Aadhar Card",
+            "Bank Passbook"
+        ],
+        "benefit_summary": "Financial support of Rs. 1600 to BPL households for each LPG connection.",
+        "apply_steps": [
+            "Apply at nearest LPG distributor",
+            "Submit KYC form"
+        ],
+        "target_groups": [
+            "women",
+            "general"
+        ],
+        "scheme_type": "financial_support"
+    },
+    {
+        "id": "6041232b-a406-48da-8ee1-902f3a018856",
+        "name": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+        "official_url": "https://pmmvy.wcd.gov.in/",
+        "category": "Health",
+        "eligible_occupations": [
+            "all"
+        ],
+        "income_limit": null,
+        "min_age": 18,
+        "max_age": null,
+        "states": [
+            "all"
+        ],
+        "documents": [
+            "Aadhar Card",
+            "Bank Account",
+            "MCP Card"
+        ],
+        "benefit_summary": "Maternity benefit of Rs. 5000 in three installments for pregnant women.",
+        "apply_steps": [
+            "Register at Anganwadi Centre",
+            "Submit required health forms"
+        ],
+        "target_groups": [
+            "women"
+        ],
+        "scheme_type": "women_specific"
+    },
+    {
+        "id": "80f34f26-833d-4836-bf3b-c16a5ac44498",
+        "name": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY)",
+        "official_url": "https://ddugky.gov.in/",
+        "category": "Education",
+        "eligible_occupations": [
+            "student",
+            "worker"
+        ],
+        "income_limit": null,
+        "min_age": 15,
+        "max_age": 35,
+        "states": [
+            "all"
+        ],
+        "documents": [
+            "Aadhar Card",
+            "BPL Card",
+            "Education Certificates"
+        ],
+        "benefit_summary": "Free skill training and placement assistance for rural youth.",
+        "apply_steps": [
+            "Register at local training centre",
+            "Complete training program"
+        ],
+        "target_groups": [
+            "student",
+            "worker",
+            "general"
+        ],
+        "scheme_type": "training"
+    },
+    {
+        "id": "7df5b8a6-1bd0-4663-8b77-aaa5217fcc36",
+        "name": "National Social Assistance Programme (Indira Gandhi National Old Age Pension)",
+        "official_url": "https://nsap.nic.in/",
+        "category": "Pension",
+        "eligible_occupations": [
+            "all"
+        ],
+        "income_limit": null,
+        "min_age": 60,
+        "max_age": 150,
+        "states": [
+            "all"
+        ],
+        "documents": [
+            "Age Proof",
+            "BPL Ration Card",
+            "Bank Account"
+        ],
+        "benefit_summary": "Monthly pension for BPL persons aged 60 years or above.",
+        "apply_steps": [
+            "Apply at Gram Panchayat / Block Office"
+        ],
+        "target_groups": [
+            "senior"
+        ],
+        "scheme_type": "pension"
+    },
+    {
+        "id": "dd373f62-a8da-4c2a-bf01-72f3ac06bc88",
+        "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+        "official_url": "https://pmfby.gov.in/",
+        "category": "Agriculture",
+        "eligible_occupations": [
+            "farmer"
+        ],
+        "income_limit": null,
+        "min_age": 18,
+        "max_age": null,
+        "states": [
+            "all"
+        ],
+        "documents": [
+            "Land Record",
+            "Bank Passbook",
+            "Aadhar Card"
+        ],
+        "benefit_summary": "Crop insurance scheme offering financial support to farmers suffering crop loss/damage.",
+        "apply_steps": [
+            "Register on PMFBY portal or via bank",
+            "Pay premium amount"
+        ],
+        "target_groups": [
+            "farmer"
+        ],
+        "scheme_type": "farmer_support"
+    },
+    {
+        "id": "e53c6ba8-1a9f-4d8c-ab41-f331725d11ed",
+        "name": "e-Shram Portal Registration",
+        "official_url": "https://eshram.gov.in/",
+        "category": "Employment",
+        "eligible_occupations": [
+            "worker",
+            "labour",
+            "daily wage"
+        ],
+        "income_limit": null,
+        "min_age": 16,
+        "max_age": 59,
+        "states": [
+            "all"
+        ],
+        "documents": [
+            "Aadhar Card",
+            "Bank Account Number"
+        ],
+        "benefit_summary": "National Database of Unorganized Workers. Registered workers get Accidental Insurance cover of 2 Lakhs.",
+        "apply_steps": [
+            "Register on e-Shram portal or nearby CSC",
+            "Get Universal Account Number (UAN) card"
+        ],
+        "target_groups": [
+            "worker"
+        ],
+        "scheme_type": "financial_support"
+    },
+    {
+        "id": "d670fe52-dc9b-4691-85b0-503249ba6558",
+        "name": "PM Vishwakarma Yojana",
+        "official_url": "https://pmvishwakarma.gov.in/",
+        "category": "Business",
+        "eligible_occupations": [
+            "business",
+            "worker",
+            "artisan"
+        ],
+        "income_limit": null,
+        "min_age": 18,
+        "max_age": null,
+        "states": [
+            "all"
+        ],
+        "documents": [
+            "Aadhar Card",
+            "Bank Details"
+        ],
+        "benefit_summary": "Collateral-free enterprise development loans, skill training, and toolkit incentive for traditional artisans.",
+        "apply_steps": [
+            "Register at CSC",
+            "Undergo verification",
+            "Complete basic training"
+        ],
+        "target_groups": [
+            "business",
+            "worker"
+        ],
+        "scheme_type": "training"
+    },
+    {
+        "id": "3eaa7dd8-d3dd-4173-9410-32bd012492f0",
+        "name": "Stand-Up India Scheme",
+        "official_url": "https://www.standupmitra.in/",
+        "category": "Business",
+        "eligible_occupations": [
+            "business",
+            "woman"
+        ],
+        "income_limit": null,
+        "min_age": 18,
+        "max_age": null,
+        "states": [
+            "all"
+        ],
+        "documents": [
+            "Aadhar",
+            "Project Report",
+            "Caste Certificate if applicable"
+        ],
+        "benefit_summary": "Bank loans between Rs. 10 Lakh and Rs. 1 Crore for setting up a greenfield enterprise (SC/ST/Woman entrepreneur).",
+        "apply_steps": [
+            "Apply through Stand-Up India portal",
+            "Submit project to bank branch"
+        ],
+        "target_groups": [
+            "business",
+            "women"
+        ],
+        "scheme_type": "financial_support"
+    },
+    {
+        "id": "d795449b-318f-4dbf-a6e9-656810aeaddd",
+        "name": "National Scholarship Portal (Pre-Matric)",
+        "official_url": "https://scholarships.gov.in/",
+        "category": "Education",
+        "eligible_occupations": [
+            "student"
+        ],
+        "income_limit": 100000,
+        "min_age": 5,
+        "max_age": 16,
+        "states": [
+            "all"
+        ],
+        "documents": [
+            "Aadhar",
+            "School ID",
+            "Income Certificate"
+        ],
+        "benefit_summary": "Financial support for students from minority communities studying in classes 1 to 10.",
+        "apply_steps": [
+            "Register on NSP portal",
+            "Submit application online",
+            "School verification"
+        ],
+        "target_groups": [
+            "student"
+        ],
+        "scheme_type": "education"
+    },
+    {
+        "id": "0adf0ab3-95ad-4e8d-be74-a36c8d1c1c0a",
+        "name": "Post-Matric Scholarship Scheme",
+        "official_url": "https://scholarships.gov.in/",
+        "category": "Education",
+        "eligible_occupations": [
+            "student",
+            "college"
+        ],
+        "income_limit": 250000,
+        "min_age": 16,
+        "max_age": null,
+        "states": [
+            "all"
+        ],
+        "documents": [
+            "Aadhar",
+            "College ID",
+            "Income Certificate",
+            "Caste Certificate"
+        ],
+        "benefit_summary": "Financial assistance for SC/ST/OBC students studying at post-matriculation or post-secondary stages.",
+        "apply_steps": [
+            "Register on State/National Scholarship Portal",
+            "Upload required documents",
+            "Institute verification"
+        ],
+        "target_groups": [
+            "student"
+        ],
+        "scheme_type": "education"
+    },
+    {
+        "id": "ef5e16dd-7cd3-4897-b7ba-fb3a7c09092c",
+        "name": "Skill India Programs (PMKVY)",
+        "official_url": "https://www.pmkvyofficial.org/",
+        "category": "Training",
+        "eligible_occupations": [
+            "student",
+            "worker",
+            "jobless"
+        ],
+        "income_limit": null,
+        "min_age": 18,
+        "max_age": 35,
+        "states": [
+            "all"
+        ],
+        "documents": [
+            "Aadhar",
+            "Educational Certificates",
+            "Bank Details"
+        ],
+        "benefit_summary": "Industry-relevant skill training that will help secure a better livelihood. Short term training and placement.",
+        "apply_steps": [
+            "Register at nearest PMKVY training centre",
+            "Complete training",
+            "Get certified"
+        ],
+        "target_groups": [
+            "worker",
+            "student"
+        ],
+        "scheme_type": "training"
+    },
+    {
+        "id": "708ddf70-c6d0-4a39-9792-ebdeb730206b",
+        "name": "Startup India Seed Fund Scheme",
+        "official_url": "https://seedfund.startupindia.gov.in/",
+        "category": "Business",
+        "eligible_occupations": [
+            "business",
+            "startup",
+            "entrepreneur"
+        ],
+        "income_limit": null,
+        "min_age": 18,
+        "max_age": null,
+        "states": [
+            "all"
+        ],
+        "documents": [
+            "DPIIT Recognition Certificate",
+            "Pitch Deck",
+            "Business Details"
+        ],
+        "benefit_summary": "Financial assistance to startups for proof of concept, prototype development, and market-entry.",
+        "apply_steps": [
+            "Register on Startup India Portal",
+            "Apply under Seed Fund Scheme to incubators"
+        ],
+        "target_groups": [
+            "business"
+        ],
+        "scheme_type": "financial_support"
+    },
+    {
+        "id": "09452595-4e75-460d-a796-a4f610382e59",
+        "name": "Mukhya Mantri Kanya Sumangala Yojana",
+        "official_url": "https://mksy.up.gov.in/",
+        "category": "Welfare",
+        "eligible_occupations": [
+            "all"
+        ],
+        "income_limit": 300000,
+        "min_age": 0,
+        "max_age": 18,
+        "states": [
+            "uttar pradesh"
+        ],
+        "documents": [
+            "Aadhar",
+            "Birth Certificate of Girl",
+            "Income Certificate"
+        ],
+        "benefit_summary": "Financial assistance of Rs. 15,000 for the birth and education of a girl child in UP.",
+        "apply_steps": [
+            "Apply via UP Women and Child Development portal",
+            "Submit stage-wise applications"
+        ],
+        "target_groups": [
+            "women"
+        ],
+        "scheme_type": "women_specific"
+    },
+    {
+        "id": "60062906-ddfd-4500-b9cd-7d6422d003ad",
+        "name": "Dr. Ambedkar Foundation National Relief",
+        "official_url": "https://ambedkarfoundation.nic.in/",
+        "category": "Welfare",
+        "eligible_occupations": [
+            "all"
+        ],
+        "income_limit": 100000,
+        "min_age": null,
+        "max_age": null,
+        "states": [
+            "all"
+        ],
+        "documents": [
+            "Aadhar",
+            "Medical Certificates",
+            "Caste Certificate"
+        ],
+        "benefit_summary": "Financial assistance to victims of atrocities on SC/STs or medical support for major ailments.",
+        "apply_steps": [
+            "Apply via District Magistrate",
+            "Submit to Dr. Ambedkar Foundation"
+        ],
+        "target_groups": [
+            "general",
+            "women",
+            "senior"
+        ],
+        "scheme_type": "financial_support"
+    },
+    {
+        "id": "6c6fada5-977d-41cc-8c04-dc9806f07572",
+        "name": "Kisan Credit Card (KCC)",
+        "official_url": "https://pmkisan.gov.in/",
+        "category": "Agriculture",
+        "eligible_occupations": [
+            "farmer",
+            "kisan"
+        ],
+        "income_limit": null,
+        "min_age": 18,
+        "max_age": 75,
+        "states": [
+            "all"
+        ],
+        "documents": [
+            "Aadhar",
+            "Land Records",
+            "Passport Photo"
+        ],
+        "benefit_summary": "Short-term credit limits for crops, animal husbandry, and fisheries at subsidized rates.",
+        "apply_steps": [
+            "Visit nearest bank branch",
+            "Submit KCC application with land details"
+        ],
+        "target_groups": [
+            "farmer"
+        ],
+        "scheme_type": "farmer_support"
+    },
+    {
+        "id": "52cdcd01-791e-4a14-b386-cfe6710dff7e",
+        "name": "Beti Bachao Beti Padhao",
+        "official_url": "https://wcd.nic.in/bbbp-schemes",
+        "category": "Education",
+        "eligible_occupations": [
+            "all"
+        ],
+        "income_limit": null,
+        "min_age": 0,
+        "max_age": 18,
+        "states": [
+            "all"
+        ],
+        "documents": [
+            "Aadhar",
+            "Birth Certificate"
+        ],
+        "benefit_summary": "Awareness scheme and financial support programs to prevent female feticide and encourage girls' education.",
+        "apply_steps": [
+            "Contact local Anganwadi",
+            "Participate in local awareness drives"
+        ],
+        "target_groups": [
+            "women",
+            "general"
+        ],
+        "scheme_type": "women_specific"
+    },
+    {
+        "id": "d4431a55-01fa-4ad7-aa3a-439550529e2a",
+        "name": "Swavalamban Yojana",
+        "official_url": "https://npscra.nsdl.co.in/",
+        "category": "Pension",
+        "eligible_occupations": [
+            "worker",
+            "unorganised"
+        ],
+        "income_limit": null,
+        "min_age": 18,
+        "max_age": 60,
+        "states": [
+            "all"
+        ],
+        "documents": [
+            "Aadhar",
+            "Bank Passbook"
+        ],
+        "benefit_summary": "Government contributes Rs. 1000 per year towards pension fund of unorganized sector workers.",
+        "apply_steps": [
+            "Open NPS account via aggregators",
+            "Deposit minimum contribution"
+        ],
+        "target_groups": [
+            "worker",
+            "senior"
+        ],
+        "scheme_type": "pension"
+    },
+    {
+        "id": "5e89b739-dc8d-4a09-9265-50987e791537",
+        "name": "Indira Gandhi National Disability Pension",
+        "official_url": "https://nsap.nic.in/",
+        "category": "Pension",
+        "eligible_occupations": [
+            "all"
+        ],
+        "income_limit": null,
+        "min_age": 18,
+        "max_age": 79,
+        "states": [
+            "all"
+        ],
+        "documents": [
+            "Aadhar",
+            "Disability Certificate",
+            "BPL Card"
+        ],
+        "benefit_summary": "Pension of Rs. 300 per month for persons with severe or multiple disabilities from BPL families.",
+        "apply_steps": [
+            "Apply at Gram Panchayat",
+            "Submit medical board certificate"
+        ],
+        "target_groups": [
+            "general"
+        ],
+        "scheme_type": "pension"
+    },
+    {
+        "id": "ce1c7546-d946-4dea-96ce-34fd38cf4101",
+        "name": "Moovalur Ramamirtham Ammaiyar Higher Education Assurance Scheme",
+        "official_url": "https://penkalvi.tn.gov.in/",
+        "category": "Education",
+        "eligible_occupations": [
+            "student",
+            "college"
+        ],
+        "income_limit": null,
+        "min_age": 16,
+        "max_age": null,
+        "states": [
+            "tamil nadu"
+        ],
+        "documents": [
+            "Aadhar",
+            "School mark sheet",
+            "College Admission Proof"
+        ],
+        "benefit_summary": "Financial assistance of Rs. 1000 per month to girl students pursuing higher education.",
+        "apply_steps": [
+            "Apply online via State portal",
+            "Submit college bonafide certificate"
+        ],
+        "target_groups": [
+            "student",
+            "women"
+        ],
+        "scheme_type": "education"
+    },
+    {
+        "id": "a8e93112-7bfa-447c-9699-7e112682313d",
+        "name": "YSR Rythu Bharosa",
+        "official_url": "https://ysrrythubharosa.ap.gov.in/",
+        "category": "Agriculture",
+        "eligible_occupations": [
+            "farmer",
+            "kisan",
+            "agriculture worker"
+        ],
+        "income_limit": null,
+        "min_age": 18,
+        "max_age": null,
+        "states": [
+            "andhra pradesh"
+        ],
+        "documents": [
+            "Aadhar",
+            "Land passbook",
+            "Bank Details"
+        ],
+        "benefit_summary": "Financial assistance of Rs. 13,500 per farmer family per year.",
+        "apply_steps": [
+            "Register at Rythu Bharosa Kendra (RBK)",
+            "Verify land holding records"
+        ],
+        "target_groups": [
+            "farmer"
+        ],
+        "scheme_type": "farmer_support"
+    },
+    {
+        "id": "f765231a-bbfc-423c-8434-65cb02f7e94a",
+        "name": "Mukhyamantri Vridhjan Samman Pension Yojana",
+        "official_url": "https://sje.rajasthan.gov.in/",
+        "category": "Pension",
+        "eligible_occupations": [
+            "senior",
+            "all"
+        ],
+        "income_limit": 50000,
+        "min_age": 55,
+        "max_age": null,
+        "states": [
+            "rajasthan"
+        ],
+        "documents": [
+            "Aadhar",
+            "Age Proof",
+            "Jan Aadhar Card"
+        ],
+        "benefit_summary": "Monthly pension ranging from Rs. 750 to Rs. 1000 for elderly citizens of Rajasthan.",
+        "apply_steps": [
+            "Apply through e-Mitra or SSO portal",
+            "Submit age and income proofs"
+        ],
+        "target_groups": [
+            "senior"
+        ],
+        "scheme_type": "pension"
+    }
+]
